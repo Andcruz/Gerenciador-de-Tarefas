@@ -27,6 +27,6 @@ Projeto prático desenvolvido para exercitar lógica de programação, manipula�
 
 ## Autor
 
-Anderson Chaves
+Anderson Chaves da Cruz
 
 [GitHub](https://github.com/Andcruz)
